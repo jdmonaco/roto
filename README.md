@@ -6,7 +6,7 @@
 
 # roto
 
-The `roto` package is a collection of tools for supporting a wide range of scientific computing approaches. Its functions are organized loosely into topic/domain-based modules that should be largely self-evident from how they are named. This package represents the cumulative state of the tools that I have found necessary (or convenient) to build myself over many years. It may or may not be useful to anyone else, but it does serve as a dependency for several of my other packages including `spikemaps` and `skaggs`.
+The `roto` package is a collection of tools for supporting a wide range of scientific computing approaches. Its functions are organized loosely into topic/domain-based modules that should be largely self-evident from how they are named. This package represents the cumulative state of the tools that I have found necessary (or convenient) to build myself over many years. It may or may not be useful to anyone else, but it does serve as a dependency for several of my other packages including [`spikemaps`](https://github.com/jdmonaco/spikemaps) and [`skaggs`](https://github.com/jdmonaco/skaggs).
 
 ## Dependencies
 
